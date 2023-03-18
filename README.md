@@ -1,8 +1,13 @@
 ### Hi there 👋 
 
 I'am Onur .. 
-Python, SQL ,   GitHub,   HTML,     SCC
+
 🌱 Full Stack Python Developer 🌱
+
+
+
+Python, SQL ,   GitHub,   HTML,     SCC
+
  
 ⚡ I love Coding...
   
