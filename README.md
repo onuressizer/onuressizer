@@ -2,7 +2,7 @@
 
 I'am Onur .. 
 
-🌱 Full Stack Python Developer 🌱
+🌱 Full Stack Python Developer is Coming...... 🌱
 
 
 
@@ -10,6 +10,7 @@ Python, SQL ,   GitHub,   HTML,     SCC
 
  
 ⚡ I love Coding...
+
   
   Part time Photographer.... 
   
