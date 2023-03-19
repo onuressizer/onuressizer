@@ -6,15 +6,33 @@ I'am Onur ..
 
 
 
+
+
 Python, SQL ,   GitHub,   HTML,     SCC
 
  
 ⚡ I love Coding...
-
-  
-  Part time Photographer.... 
-  
 ⚡⚡⚡⚡  Projects is Looodingg.....⚡⚡⚡⚡
+
+<p align="center"> <img src="https://github.com/mayankchaudhary26/Cool-Readme-ideas/blob/master/data/night%20code.gif" />
+<img align="center" 
+  
+ 
+     
+
+     
+     Part time Photographer.... 
+  
+
+
+
+
+
+
+
+
+
+
 
 
 
