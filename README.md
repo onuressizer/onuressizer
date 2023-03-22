@@ -8,7 +8,7 @@ I'am Onur ..
 
 
 
-Python, SQL ,   GitHub,   HTML,     SCC
+🌻 Python, SQL ,   GitHub,   HTML,   SCC 🗺️
 
  
 ⚡ I love Coding...
