@@ -10,7 +10,9 @@ I'am Onur ..
 
 🌻 Python, SQL ,   GitHub,   HTML,   SCC 🗺️
 
- 
+   Part time Photographer.... 
+  
+
 ⚡ I love Coding...
 ⚡⚡⚡⚡  Projects is Looodingg.....⚡⚡⚡⚡
 
@@ -21,9 +23,7 @@ I'am Onur ..
      
 
      
-     Part time Photographer.... 
-  
-
+   
 
 
 
